@@ -20,12 +20,12 @@ Esta é uma solução para o [desafio Product preview card component do Frontend
 
 | Mobile                             | Desktop                              |
 | ---------------------------------- | ------------------------------------ |
-| ![Mobile](./screenshot-mobile.jpg) | ![Desktop](./screenshot-desktop.jpg) |
+| ![screenshot-mobile.jpg](./screenshot-mobile.jpg) | ![screenshot-desktop.jpg](./screenshot-desktop.jpg) |
 
 ### Links
 
-- URL da solução: [https://github.com/Davilla07/product-preview-card](https://github.com/Davilla07/product-preview-card)
-- URL do site ao vivo: [https://davilla07.github.io/product-preview-card](https://davilla07.github.io/product-preview-card)
+- URL da solução: [https://github.com/Davilla07/Product-Preview-Card-Component.git](https://github.com/Davilla07/Product-Preview-Card-Component.git)
+- URL do site ao vivo: [https://davilla07.github.io/Product-Preview-Card-Component/](https://davilla07.github.io/Product-Preview-Card-Component/)
 
 ## Meu processo
 
